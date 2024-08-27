@@ -1,6 +1,6 @@
 const firstName = "Davi"
 const anotherName = 1
-const x = true
+const xx = true
 
 function greeting(name: string) {
     console.log("olá " + name)
