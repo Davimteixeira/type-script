@@ -6,3 +6,9 @@
 // 2 -string 
 var firstName = "oi";
 console.log(firstName.toUpperCase());
+
+// 4 - inference e annotation
+
+const ann: string = "Teste"
+
+const inf = "Teste"
