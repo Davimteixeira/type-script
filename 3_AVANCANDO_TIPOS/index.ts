@@ -8,7 +8,7 @@ console.log(nums[2])
 // nums.push('a')
 // nums = 'teste'
 
-const nomes = ['Matheus', 'Pedro']
+const nomes = ['Davi', 'Pedro']
 
 // nomes.push(2)
 
@@ -88,7 +88,7 @@ function advancedGreeting(firstName: string, lastName?: string) {
   console.log(`Olá, ${firstName}, tudo bem?`)
 }
 
-advancedGreeting('Matheus', 'Battisti')
+advancedGreeting('Matheus', 'Teixeira')
 advancedGreeting('João')
 
 // 10 - union type
